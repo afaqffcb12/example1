@@ -1,4 +1,4 @@
 ---
 OSPF:
-  - interface: "ge0/0/2.0"
-    area: "0.0.0.0"
+    RID: "15"
+    NETWORK: "0.0.0.0 255.255.255.255 area 15"
